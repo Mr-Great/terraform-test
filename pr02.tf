@@ -1,2 +1,4 @@
 
-module "PR02" {}
+module "PR02" {
+  "string": "number"
+}
